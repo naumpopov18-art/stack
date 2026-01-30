@@ -1,5 +1,3 @@
-
-# 1 задание 
 class Stack():
     def __init__(self):
         self.items = []
